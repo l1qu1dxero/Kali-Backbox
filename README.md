@@ -1,2 +1,2 @@
-# Kali-Backbox
-Kali tools installer for BackBox Linux
+# Kali-universal-L1qu1d
+Kali tools installer for Linux
